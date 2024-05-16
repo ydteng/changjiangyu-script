@@ -1,8 +1,8 @@
-# changjiangyu-script
-## 长江雨课堂刷课脚本，此项目基于项目：https://github.com/RHzzz666/yuketang_for_SUCT
-如有问题可以提交issue
+# 长江雨可让最新刷课脚本
+## 基于项目：https://github.com/RHzzz666/yuketang_for_SUCT，已经相关问题
+**如有问题可以提交issue**
 
-下面为原README内容
+# 下面为原README内容
 ## 长江雨课堂刷课脚本（2023.03.08更新，合并为一个脚本，通用支持长江雨课堂中的所有课程）
 
 基于以下脚本进行修改而来：
