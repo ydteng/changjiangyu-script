@@ -1,4 +1,4 @@
-# 长江雨可让最新刷课脚本
+# 长江雨课堂最新刷课脚本
 ## 基于项目：https://github.com/RHzzz666/yuketang_for_SUCT，已经相关问题
 **如有问题可以提交issue**
 
