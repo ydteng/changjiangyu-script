@@ -1,5 +1,5 @@
 # 长江雨课堂最新刷课脚本
-## 基于项目：https://github.com/RHzzz666/yuketang_for_SUCT，已经相关问题
+## 基于项目：https://github.com/RHzzz666/yuketang_for_SUCT
 **如有问题可以提交issue**
 
 # 下面为原README内容
